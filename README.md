@@ -27,7 +27,7 @@ Ter um sistema mais fácil de utilizar e mais acessível ao público.
 
 Orientador: Me. Gustavo Henrique Dornelas de Deus
 
-Desenvolvedores: Claudio Lucas e Danilo Silva
+Desenvolvedores: Claudio Lucas e Danilo Rocha
 
 ## Solução para problemas identificados:
 Adaptar o planejamento quando necessário.
